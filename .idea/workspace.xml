@@ -37,8 +37,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sanejsonobject/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5724245">
-              <caret line="83" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.1859024">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -59,7 +59,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#338#339#0" expanded="false" />
+                <element signature="e#361#362#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -938,7 +942,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#338#339#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -976,8 +984,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sanejsonobject/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5724245">
-          <caret line="83" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.1859024">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding />
         </state>
       </provider>

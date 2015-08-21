@@ -5,7 +5,7 @@ apply plugin: 'com.jfrog.bintray'
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.0"
-    resourcePrefix "sanejsonobejct__"
+    resourcePrefix "sanejsonobject__"
 
     defaultConfig {
         minSdkVersion 19
